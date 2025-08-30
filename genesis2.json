@@ -1,0 +1,22 @@
+{
+  "generator": "genesis2",
+  "version": "2.0.0",
+  "projectName": "quick-desert",
+  "projectId": 2,
+  "genId": 2,
+  "domain": "rathnas.com",
+  "sld": "rathnas",
+  "tld": "com",
+  "owner": "rathnasrf",
+  "repo": "quick-desert",
+  "generatedAt": "2025-08-30T08:26:47.657Z",
+  "generatedBy": "genesis2-api",
+  "modules": [
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "license": "MIT",
+    "tags": [
+    ]
+  }
+}
